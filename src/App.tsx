@@ -1,6 +1,5 @@
 import './App.scss'
 import Avatar from './assets/avatar-michelle.jpg';
-import ShareIcon from './assets/icon-share.svg';
 import FacebookIcon from './assets/icon-facebook.svg';
 import TwitterIcon from './assets/icon-twitter.svg';
 import PinterestIcon from './assets/icon-pinterest.svg';
